@@ -1,0 +1,19 @@
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ADMIN\Downloads\New folder\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
